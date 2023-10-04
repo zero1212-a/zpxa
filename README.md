@@ -34,8 +34,11 @@ how to installing
 
 
 $ git clone https://github.com/zero1212-a/zpxa.git
+
 $ cd zpxa
+
 $ bash requirements.sh
+
 $ python3 zpxa.py
 
 
